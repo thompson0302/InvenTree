@@ -1,0 +1,7 @@
+{
+    "tabnine.codeLensEnabled": false,
+    "tabnine.disableFileRegex": [
+
+    ],
+    "tabnine.useProxySupport": false
+}
